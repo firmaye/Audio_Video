@@ -34,7 +34,7 @@ h2 {
 .vid {
   margin: 40px;
   display: flex;
-
+  flex-wrap: wrap;
   justify-content: space-around;
 }
 .vid video {
